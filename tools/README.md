@@ -4,7 +4,7 @@ A collection of scripts for getting values needed for SVM.
 ## To Setup
 ```bash
 # from this directory
-cd scripts
+cd tools
 
 python3.10 -m venv .venv
 
