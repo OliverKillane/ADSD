@@ -3,7 +3,7 @@ authors = ["Oliver Killane"]
 language = "en"
 multilingual = false
 src = "src"
-title = "emDB"
+title = "ADSD"
 description = "Documentation for helping with ADSD"
 
 [output.html]

@@ -21,6 +21,8 @@ wouldn't be any fun! 😂
 └── tools    # tools for header generation
 ```
 
+[Docs hosted here](https://oliverkillane.github.io/ADSD/)
+
 ## The Coursework Problem
 To optimise an embedded system performing SVM classification of digits from MNIST.
 
